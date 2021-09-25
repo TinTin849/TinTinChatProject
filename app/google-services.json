@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026236731979",
+    "firebase_url": "https://tintinchat-51377-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tintinchat-51377",
+    "storage_bucket": "tintinchat-51377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026236731979:android:2f7fd9c45236b58b9f73ce",
+        "android_client_info": {
+          "package_name": "com.example.tintinchatproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026236731979-r0qoeh3aidt96pr6mkni03od6heu38l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tintinchatproject",
+            "certificate_hash": "c2322f2427ab4e8af44c5c9217556141f43e338a"
+          }
+        },
+        {
+          "client_id": "1026236731979-4fsajml08lt067obkjlrgo3ld8smlh49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbj8xAET2guEigzTNb2G9ULqg5utDmCaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026236731979-4fsajml08lt067obkjlrgo3ld8smlh49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
